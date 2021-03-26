@@ -20,9 +20,9 @@ const experience = [
   {
     projectName: "CV",
     lookProject: "view project",
-    linkProject: "",
+    linkProject: "https://landing-page-cv.vercel.app/",
     viewCode: "view code",
-    linkCode: "",
+    linkCode: "https://github.com/Roman-Hana/landing-page",
     description:
       "I created a responsive site that looks good on cell phones too, using technologies such as HTML, CSS, JS and bootstrap compiled by the Gulp compiler.",
   },
